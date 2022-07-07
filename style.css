@@ -33,9 +33,9 @@
   border: 0;
   font-weight: bold;
   cursor: pointer;
-  width: 40px;
+  width: 30px;
   background-color: white;
-  height: 40px;
+  height: 30px;
 }
 .carousel .carousel__actions button#carousel__button--prev {
   margin-left: 10px;
