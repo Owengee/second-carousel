@@ -38,10 +38,10 @@
   height: 40px;
 }
 .carousel .carousel__actions button#carousel__button--prev {
-  margin-left: 20px;
+  margin-left: 10px;
 }
 .carousel .carousel__actions button#carousel__button--next {
-  margin-right: 20px;
+  margin-right: 10px;
 }
 @keyframes fadeVisivbility {
   0% {
